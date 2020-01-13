@@ -1,8 +1,25 @@
 body {
-  background-color: aquamarine;
   margin: 0;
+  text-align: center;
 }
 
-div {
-  background-color: #cbf1f5;
+h1 {
+  margin-top: 0; 
+}
+
+.top-container {
+  background-color: #bbded6;
+  position: relative;
+  padding-top: 150px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 40px;
+  right: 250px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
 }
