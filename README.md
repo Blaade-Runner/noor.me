@@ -6,4 +6,4 @@
 
 ### <pre> [Google Fonts](https://fonts.google.com/) | [CSS Fonts](https://www.cssfontstack.com/) </pre>
 
-### <pre> [Icons](https://nucleoapp.com/) </pre>
+### <pre> [Icons](https://nucleoapp.com/) | [FlatIcons](https://www.flaticon.com/) </pre>
