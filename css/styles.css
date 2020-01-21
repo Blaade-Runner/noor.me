@@ -42,7 +42,8 @@ h3 {
 }
 
 a {
-  color: #66bfbf;
+  color: white;
+  text-decoration: none;
 }
 
 p {
@@ -139,4 +140,8 @@ hr {
     to(#f8b195)
   );
   background: -moz-linear-gradient(top, #c06c84, #f8b195);
+}
+
+.bottom-container {
+  background-color: #11999e;
 }
