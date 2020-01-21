@@ -49,12 +49,12 @@ a {
 .top-cloud {
   position: absolute;
   top: 50px;
-  right: 15%;
+  left: 10%;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 15%;
+  right: 10%;
 }
 
 .mountain {
