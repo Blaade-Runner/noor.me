@@ -7,4 +7,4 @@
 
 ### <pre> [Icons](https://nucleoapp.com/) | [FlatIcons](https://www.flaticon.com/) </pre>
 
-### <pre> [Loaders.css](https://connoratherton.com/loaders) </pre>
+### <pre> [Loaders.css](https://connoratherton.com/loaders) | [Carousel](https://kenwheeler.github.io/slick/) </pre>
