@@ -5,4 +5,6 @@
 
 ### <pre> [Loaders.css](https://connoratherton.com/loaders) | [Carousel](https://kenwheeler.github.io/slick/) | [jVector Map](https://jvectormap.com/) </pre>
 
+### <pre> [CodePly](https://www.codeply.com/) </pre>
+
 ### <pre> [dribble](https://dribbble.com/) | [SneakPeekIt](https://sneakpeekit.com/) | [balsamiq.cloud](https://balsamiq.cloud/) </pre>
